@@ -1,0 +1,2 @@
+string_topic_py:topic_cpp:topic_cpp2:topic_py:topic_py2
+-DCATKIN_DEVEL_PREFIX=/home/theo/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/theo/catkin_ws/install -G Unix Makefiles
